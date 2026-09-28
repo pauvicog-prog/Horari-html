@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    border: 2px solid black;
+    padding: 10px;
+    background-color: #eeeeee;
+    font-size: 18px;
+}
+
+td {
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+    height: 60px;
+}
+
+.hora {
+    background-color: #eeeeee;
+    font-weight: bold;
+    width: 130px;
+}
+
+.aso {
+    background-color: #d9d2e9;
+}
+
+.bdd {
+    background-color: #fff2cc;
+}
+
+.progra {
+    background-color: #d9ead3;
+}
+
+.ipo {
+    background-color: #ead1dc;
+}
+
+.marques {
+    background-color: #ffe599;
+}
+
+.iso {
+    background-color: #c9daf8;
+}
+
+.fm {
+    background-color: #d9ead3;
+}
+
+.sx {
+    background-color: #fce5cd;
+}
+
+.tutoria {
+    background-color: #f4cccc;
+}
+
+.descanso {
+    background-color: #eeeeee;
+    font-weight: bold;
+}
